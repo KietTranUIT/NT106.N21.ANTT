@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wRaHaJEVbBghxprZPDjNPr6I4zihIlJimPH14m7WDEz2iDDILppQ7pFZB0Dacd59ijafgB05AaRYuQLlb81F4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FShop\\Documents\\LTM_Final_ChatApplication\\Final_ChatApplication\\ChatClient\\ChatClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FShop\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

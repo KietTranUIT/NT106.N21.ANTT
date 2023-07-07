@@ -1,0 +1,16 @@
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\bin\Debug\net5.0-windows\Final_ChatApplication.exe
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\bin\Debug\net5.0-windows\Final_ChatApplication.deps.json
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\bin\Debug\net5.0-windows\Final_ChatApplication.runtimeconfig.json
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\bin\Debug\net5.0-windows\Final_ChatApplication.runtimeconfig.dev.json
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\bin\Debug\net5.0-windows\Final_ChatApplication.dll
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\bin\Debug\net5.0-windows\ref\Final_ChatApplication.dll
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\bin\Debug\net5.0-windows\Final_ChatApplication.pdb
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\Final_ChatApplication.csproj.AssemblyReference.cache
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\Final_ChatApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\Final_ChatApplication.AssemblyInfoInputs.cache
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\Final_ChatApplication.AssemblyInfo.cs
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\Final_ChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\Final_ChatApplication.dll
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\ref\Final_ChatApplication.dll
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\Final_ChatApplication.pdb
+C:\Users\FShop\Documents\LTM_Final_ChatApplication\Final_ChatApplication\Final_ChatApplication\obj\Debug\net5.0-windows\Final_ChatApplication.genruntimeconfig.cache
