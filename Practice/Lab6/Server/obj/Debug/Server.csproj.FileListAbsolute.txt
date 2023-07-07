@@ -1,0 +1,10 @@
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\bin\Debug\Server.exe.config
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\bin\Debug\Server.exe
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\bin\Debug\Server.pdb
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\obj\Debug\Server.Form1.resources
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\obj\Debug\Server.exe
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\obj\Debug\Server.pdb
+C:\Users\FShop\Documents\LTMCB_TH\Lab6\Server\obj\Debug\Server.csproj.AssemblyReference.cache

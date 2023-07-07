@@ -1,0 +1,17 @@
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\bin\Debug\netcoreapp3.1\LTMCB_Lab1.exe
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\bin\Debug\netcoreapp3.1\LTMCB_Lab1.deps.json
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\bin\Debug\netcoreapp3.1\LTMCB_Lab1.runtimeconfig.json
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\bin\Debug\netcoreapp3.1\LTMCB_Lab1.runtimeconfig.dev.json
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\bin\Debug\netcoreapp3.1\LTMCB_Lab1.dll
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\bin\Debug\netcoreapp3.1\LTMCB_Lab1.pdb
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.csproj.AssemblyReference.cache
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.Form1.resources
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.csproj.GenerateResource.cache
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.AssemblyInfoInputs.cache
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.AssemblyInfo.cs
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.dll
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.pdb
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.genruntimeconfig.cache
+C:\Users\FShop\source\repos\LTMCB_Lab1\LTMCB_Lab1\obj\Debug\netcoreapp3.1\LTMCB_Lab1.Form2.resources
